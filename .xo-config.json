@@ -1,0 +1,7 @@
+{
+	"prettier": true,
+	"extends": "xo-react",
+	"rules": {
+		"react/react-in-jsx-scope": 0
+	}
+}
